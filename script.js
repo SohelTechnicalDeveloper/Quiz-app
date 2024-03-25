@@ -20,10 +20,10 @@ const ques = [
 {
 
     "ques":"What is Java ?",
-     'A' : 'Machine',
-     'B' : 'Electronic device',
-     'C' : 'Software',
-     'D' : 'Hardware',
+     'A' : 'Machine language',
+     'B' : 'Electronic device language',
+     'C' : 'Software language',
+     'D' : 'Hardware language',
      "ans" : 'A' 
 },
 {
