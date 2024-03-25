@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+marquee{
+        font: 500;
+        font-size: 30px;
+        margin-top: 2%;
+
+    }
+.nav {
+     
+     /* background-color: red; */
+     border: 1px solid red;
+     display: flex;
+     justify-content: space-between;
+     width: 100vw;
+     padding: 10px 10px;
+     border: none;
+}
+
+.nav li a{
+     
+     background-color: rgb(229, 137, 137);
+     padding: 4px 4px;
+     border-radius: 5px;
+     text-decoration: none;
+}
+.nav li {
+     
+     display: inline;
+     /* justify-content: space-between; */
+      text-decoration: none;
+      border-bottom: none;
+     /* border: 2px solid black; */
+     margin: 1.2vw;
+     font-size: 25px;
+
+}
+.btn li button{
+     
+     /* border: 2px solid red; */
+     /* margin-right: 5%; */
+     margin: 1.2vw;
+     font-size: 18px;
+     gap: 55%;
+     
+}
+.btn1{
+    background-color: rgb(27, 176, 154);
+    padding: 5px 5px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+
+}
+.btn2{
+     
+     background-color: rgb(18, 64, 29) ;
+     padding: 5px 5px;
+     border-radius: 5px;
+     color: white;
+    cursor: pointer;
+
+}
+.header{
+      
+     margin-left: 10%;
+     margin-top: 10px;
+}
+.question{
+     
+     margin-left: 18%;
+     margin-right: 18%;
+     margin-top: 2%;
+     /* border: 1px solid red; */
+}
+
+.task-list{
+
+    /* border: 5px solid rgb(9, 11, 146); */
+    margin-top: 5px;
+    /* background-color: rgb(197, 206, 144); */
+
+     
+}
+#quiz-list{
+
+     margin-top: 5px;
+}
+.option{
+     
+    /* border: 1px solid red; */
+    margin-left: 18%;
+     margin-right: 18%;
+     margin-top: 2%;
+     /* color: red; */
+  /* background-color: white; */
+
+}
+.result{
+     
+     background-color: rgb(6, 43, 29);
+     border: 1px solid red;
+     margin-left: 20%;
+     margin-right: 20%;
+     padding: 20px 20px;
+     color: white;
+     border-radius: 10px;
+}
+.result h2{
+     
+     /* border: 1px solid red; */
+     margin-left: 25%;
+     margin-right: 25%;
+}
